@@ -1,0 +1,34 @@
+[
+  {
+    "id": "jaipur",
+    "name": "Jaipur",
+    "region": "Rajasthan",
+    "tagline": "The Pink City of royal heritage",
+    "description": "Jaipur is known for its forts, palaces, vibrant bazaars, and rich royal history.",
+    "food": ["Dal Baati Churma", "Ghevar"],
+    "festivals": ["Teej", "Jaipur Literature Festival"],
+    "monuments": ["Hawa Mahal", "Amer Fort", "City Palace"],
+    "art": ["Block printing", "Blue pottery"],
+    "facts": [
+      "Jaipur is part of the Golden Triangle tourist circuit.",
+      "It was one of the first planned cities of India."
+    ],
+    "imageUrl": "/images/jaipur.jpg"
+  },
+  {
+    "id": "varanasi",
+    "name": "Varanasi",
+    "region": "Uttar Pradesh",
+    "tagline": "The spiritual heart of India",
+    "description": "Varanasi is one of the oldest living cities in the world, famous for its ghats and temples.",
+    "food": ["Kachori Sabzi", "Banarasi Paan"],
+    "festivals": ["Dev Deepawali", "Ganga Mahotsav"],
+    "monuments": ["Kashi Vishwanath Temple", "Dashashwamedh Ghat"],
+    "art": ["Banarasi silk weaving"],
+    "facts": [
+      "Situated on the banks of the river Ganga.",
+      "Important center for Hindu philosophy and music."
+    ],
+    "imageUrl": "/images/varanasi.jpg"
+  }
+]

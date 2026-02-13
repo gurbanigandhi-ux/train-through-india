@@ -1,0 +1,32 @@
+[
+  {
+    "cityId": "jaipur",
+    "questions": [
+      {
+        "question": "Jaipur is popularly known as which city?",
+        "options": ["Pink City", "Blue City", "Golden City", "Lake City"],
+        "correctIndex": 0
+      },
+      {
+        "question": "Which famous monument is located in Jaipur?",
+        "options": ["Charminar", "Hawa Mahal", "Gateway of India", "India Gate"],
+        "correctIndex": 1
+      }
+    ]
+  },
+  {
+    "cityId": "varanasi",
+    "questions": [
+      {
+        "question": "Varanasi is situated on the banks of which river?",
+        "options": ["Yamuna", "Godavari", "Ganga", "Narmada"],
+        "correctIndex": 2
+      },
+      {
+        "question": "Varanasi is especially famous for which textile?",
+        "options": ["Chanderi", "Banarasi silk", "Kanchipuram silk", "Pashmina"],
+        "correctIndex": 1
+      }
+    ]
+  }
+]
