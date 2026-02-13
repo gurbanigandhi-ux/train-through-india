@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/train-through-india/static/css/main.9e0ac620.css",
+    "main.js": "/train-through-india/static/js/main.1cd69094.js",
+    "static/js/453.ac0e09f5.chunk.js": "/train-through-india/static/js/453.ac0e09f5.chunk.js",
+    "index.html": "/train-through-india/index.html",
+    "main.9e0ac620.css.map": "/train-through-india/static/css/main.9e0ac620.css.map",
+    "main.1cd69094.js.map": "/train-through-india/static/js/main.1cd69094.js.map",
+    "453.ac0e09f5.chunk.js.map": "/train-through-india/static/js/453.ac0e09f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e0ac620.css",
+    "static/js/main.1cd69094.js"
+  ]
+}
